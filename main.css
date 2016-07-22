@@ -1,0 +1,59 @@
+.cancha{
+        width:800px ;
+        height:500px ;
+        background-color:#8CB27C;
+}
+
+.borde{
+        border:1px solid white;
+        width:750px;
+        height:450px;
+        position: relative;
+        left:25px;
+        top:25px;
+}
+
+.left{
+        border:1px solid white;
+        width:80px;
+        height:200px;
+        position: relative;
+        top:120px;
+}
+
+.right{
+        border:1px solid white;
+        width:80px;
+        height:200px;
+        position: relative;
+        left:669px;
+        bottom:80px;
+}
+
+.center{
+        border:1px solid white;
+        width:200px;
+        height:200px;
+        position: relative;
+        left:275px;
+        bottom:280px;
+        border-radius: 50%;
+}
+
+.pel1{
+	position: absolute;
+	left: 70px;
+    bottom: 294px;
+}
+
+.pel2{
+	position: absolute;
+	left: 641px;
+    bottom: 127px;
+}
+
+.pel3{
+	position: absolute;
+	left: 395px;
+    bottom: 353px;
+}
